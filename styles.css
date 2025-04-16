@@ -254,6 +254,10 @@ a {
         flex-direction: column;
         padding-top: 80px;
     }
+
+   .benefits {
+    flex-direction: column;
+   }
 }
   
 @media (max-width: 480px) {
